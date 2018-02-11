@@ -59,7 +59,7 @@ h2,h3{
 }
 
 #logo {
-    width: 250px;
+    width: 275px;
     height: 90px;
     background: #4aaaa5;
     float: left;
@@ -68,7 +68,7 @@ h2,h3{
     line-height: 90px;
     color: #fff;
     font-weight: 700;
-    font-size: 24px;
+    font-size: 26px;
     text-decoration: none;
 }
 
